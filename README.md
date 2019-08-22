@@ -12,25 +12,31 @@ CSS styles, images and mark up are all embedded in the html files. There is only
 
 There are 2 files that have different wording depending on the requirement.
 
-### Malicious attacks
+
+### Planned maintenance
 
 This is to be used on any site that NICE has when planned maintenance is taking place and that particular site needs to be off line.  Ops will point to this page when they take the site down so that users have information about why they can't access the service. 
+
+````maintenance.html````
+
+Displayed message:-
 
 *This service is currently unavailable due to maintenance work.*
 
 *We carry out maintenance work on our services on the last Sunday of each month. Thank you for your understanding and patience.*
 
-````maintenance.html````
-
-### Planned maintenance
+### Malicious attacks
 
 This is to be used on any site that NICE has when a malicious attack takes place and the site needs to be taken off line to regain control or to take off content that has been put there maliciously.  Ops will point to this page when they take the site down so that users have information about why they can't access the service.
+
+````unavailable.html````
+
+Displayed message:-
 
 *This service is currently unavailable.*
 
 *We’re working to resolve the issue and hope to have the service up and running again soon. Thank you for your understanding and patience, and apologies for any inconvenience this may cause.*
 
-````unavailable.html````
 
 ## Extra Information
 
