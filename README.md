@@ -17,9 +17,11 @@ There are 2 files that have different wording depending on the requirement.
 
 This is to be used on any site that NICE has when planned maintenance is taking place and that particular site needs to be off line.  Ops will point to this page when they take the site down so that users have information about why they can't access the service. 
 
+##### File to use
+
 ````    maintenance.html````
 
-##### Displayed message:-
+##### Displayed message
 
 *This service is currently unavailable due to maintenance work.*
 
@@ -29,9 +31,11 @@ This is to be used on any site that NICE has when planned maintenance is taking 
 
 This is to be used on any site that NICE has when a malicious attack takes place and the site needs to be taken off line to regain control or to take off content that has been put there maliciously.  Ops will point to this page when they take the site down so that users have information about why they can't access the service.
 
+##### File to use
+
 ````    unavailable.html````
 
-#### Displayed message:-
+#### Displayed message
 
 *This service is currently unavailable.*
 
